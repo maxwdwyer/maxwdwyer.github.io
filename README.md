@@ -1,5 +1,7 @@
 # maxwdwyer.github.io
 
+GAME: https://maxwdwyer.github.io/
+
 This game was not meant to be played in browser, most things work but some things might be slower and the game might crash.
 
 If clicking does not working for digging try holding down lmb instead of just clicking.
