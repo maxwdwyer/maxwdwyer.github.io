@@ -14,9 +14,16 @@ This game is also unfinished, I intend to add different ice block shapes and sle
 "New folder (2)" contains the source files, if you want to build it you need the raylib libray. 
 If you want to just have the executable you should go into headers.h and make sure that IS_WEB_BUILD = false
 
+
+
 Credit:
+
 Sebastian Lague on youtube for explanation of marching cubes algorithm
+
 dwilliamson on GitHub for the premade tables for marching cubes
+
 Luís Almeida who made the depth rendering example on raylibs site, I used parts of that to help with the reflection in the ice
+
 Brad‑Chamberlain (I think) for making the blender sapling tree gen addon I used for the trees
+
 TheManTheMythTheGameDev who made an example of shadows on raylibs site, I started to add shadows but never finished
