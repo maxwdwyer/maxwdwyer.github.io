@@ -1,6 +1,6 @@
 # maxwdwyer.github.io
 
-GAME: https://maxwdwyer.github.io/ 
+GAME: https://maxwdwyer.github.io/SnowGame/
 IT MIGHT TAKE A WHILE TO LOAD
 
 This game was not meant to be played in browser, most things work but some things might be slower and the game might crash.
